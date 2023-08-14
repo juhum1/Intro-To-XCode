@@ -1,14 +1,14 @@
 //
-//  Intro_To_XCodeApp.swift
-//  Intro To XCode
+//  Intro_To_XcodeApp.swift
+//  Intro To Xcode
 //
-//  Created by Julie E. Hum on 8/10/23.
+//  Created by Julie E. Hum on 8/9/23.
 //
 
 import SwiftUI
 
 @main
-struct Intro_To_XCodeApp: App {
+struct Intro_To_XcodeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
